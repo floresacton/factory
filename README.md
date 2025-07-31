@@ -1,2 +1,2 @@
 # factory
-Autonomous factory
+Autonomous Factory
